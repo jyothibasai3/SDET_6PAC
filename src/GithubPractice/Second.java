@@ -19,6 +19,14 @@ public class Second {
 	     else
 	       System.out.println("non palindrom number");
 	          }
-	 }
+
+public void jyo()
+{
+		System.out.println("hello basai");
+
+
+}
+
+}
 
 
